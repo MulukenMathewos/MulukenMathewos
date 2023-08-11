@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -
-- 😄 Prefferred name: Sammy
+- 😄 Prefferred name: Mule
 <!-- ⚡ Fun fact: ...doing hard things isn't really difficult if only you stay determined.
 -->
-<h1 align="center">Hi 👋, I'm Sammykingx</h1>
+<h1 align="center">Hi 👋, I'm Muluken Mathewos</h1>
 <h3 align="center">A Python Backend SE</h3>
 
 <!--<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/mulukenmathewo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eronomosele" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muluken-mathewos-799807262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel iyebhora" height="30" width="40" /></a>
 <a href="https://fb.com/Muluken Mathewos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sammykingx" height="30" width="40" /></a>
-<a href="https://instagram.com/kingx_dma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kingx_dma" height="30" width="40" /></a>
+<a href="https://instagram.com/mule_ye_mati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kingx_dma" height="30" width="40" /></a>
 </p>
 <!--
   gif section
