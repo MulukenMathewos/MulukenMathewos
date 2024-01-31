@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/mulukenmathewo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mulukenmathewo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mulukenmathewos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mulukenmathewos" height="30" width="40" /></a>
-<a href="https://fb.com/Muluken Mathewos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muluken Mathewos" height="30" width="40" /></a>
-<a href="https://instagram.com/mule_ye_mati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mule_ye_mati" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100007825725039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muluken Mathewos" height="30" width="40" /></a>
+<a href="https://instagram.com/muluken_mathewos1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mule_ye_mati" height="30" width="40" /></a>
 </p>
 <!--
   gif section
