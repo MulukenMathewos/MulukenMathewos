@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
 -->
 
-- 🔭 I’m an [ALX Backend SE Grad](https://www.alxafrica.com/software-engineering-2022/)
+- 🔭 I’m an [ALX Backend SE Grad](https://intranet.alxswe.com/certificates/NnC8yzGHYR)
 
 <!-- 🌱 I’m currently increasing more **building**-->
 
